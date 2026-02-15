@@ -120,12 +120,9 @@ skillswap-connect-code/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-
-- [Your Name/Team Name]
-
 ## 🙏 Acknowledgments
 
 - Shadcn UI for the amazing component library
 - The React and TypeScript communities
 - All contributors and supporters
+
